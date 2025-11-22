@@ -1,0 +1,7 @@
+langchain
+langgraph
+langsmith
+typing-extensions
+python-dotenv
+langchain_groq
+langchain_tavily
